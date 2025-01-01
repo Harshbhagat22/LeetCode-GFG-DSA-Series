@@ -37,6 +37,12 @@ Welcome to my LeetCode Series! This repository is a collection of solutions to v
 
 ---
 
+## Day 4
+1. [Minimum Bit Flips to Convert Number](MinimumBitFlips.md)  
+   **Description**: Calculates the minimum number of bit flips required to convert one number to another.
+
+---
+
 ## How to Use
 Each problem is documented in its respective `.md` file with the following structure:
 - **Problem Statement**  
@@ -56,4 +62,4 @@ Practicing problems on LeetCode helps in:
 
 ---
 
-### Happy Coding! 🚀
+### Happy Coding! 🚀 
