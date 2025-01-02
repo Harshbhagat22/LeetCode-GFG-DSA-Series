@@ -43,6 +43,18 @@ Welcome to my LeetCode Series! This repository is a collection of solutions to v
 
 ---
 
+## Day 5
+1. [Maximum Sum of Subarray (Kadane's Algorithm)](MaximumSumSubarray.md)  
+   **Description**: Finds the contiguous subarray with the maximum sum using Kadane's algorithm.
+
+---
+
+## Day 6
+1. [First Index of Occurrence of String](FirstIndexOfOccurrence.md)  
+   **Description**: Finds the first occurrence of one string within another.
+
+---
+
 ## How to Use
 Each problem is documented in its respective `.md` file with the following structure:
 - **Problem Statement**  
@@ -62,4 +74,5 @@ Practicing problems on LeetCode helps in:
 
 ---
 
-### Happy Coding! 🚀 
+### Happy Coding! 🚀
+---
