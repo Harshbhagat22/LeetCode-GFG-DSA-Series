@@ -1,4 +1,4 @@
-# LeetCode Series
+# LeetCode And GFG Series
 
 Welcome to my LeetCode Series! This repository is a collection of solutions to various LeetCode problems that I tackle day by day to improve my problem-solving skills and coding knowledge. Below, you'll find the problems organized by days.
 
@@ -55,14 +55,15 @@ Welcome to my LeetCode Series! This repository is a collection of solutions to v
 
 ---
 
-## How to Use
-Each problem is documented in its respective `.md` file with the following structure:
-- **Problem Statement**  
-- **Approach**  
-- **Solution Code**  
-- **Time and Space Complexity**
+## Day 7
+1. [Kth Largest Element in an Array](KthLargestElement.md)  
+   **Description**: Finds the Kth largest element in an array using a heap or quickselect algorithm.
 
-Feel free to explore, learn, and contribute!
+---
+
+## Day 8
+1. [Missing Number in an Array](MissingNumber.md)  
+   **Description**: Identifies the missing number in an array of consecutive integers.
 
 ---
 
@@ -75,4 +76,3 @@ Practicing problems on LeetCode helps in:
 ---
 
 ### Happy Coding! 🚀
----
