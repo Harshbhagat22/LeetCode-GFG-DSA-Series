@@ -67,6 +67,42 @@ Welcome to my LeetCode Series! This repository is a collection of solutions to v
 
 ---
 
+## Day 9
+1. [Move Zeros](MoveZeros.md)  
+   **Description**: Moves all zeros in an array to the end while maintaining the relative order of other elements.
+
+---
+
+## Day 10
+1. [Sort Colors](SortColors.md)  
+   **Description**: Sorts an array containing 0s, 1s, and 2s using the Dutch National Flag algorithm.
+
+---
+
+## Day 11
+1. [Single Element in Array](SingleElementInArray.md)  
+   **Description**: Finds the single element that appears only once in a sorted array.
+
+---
+
+## Day 12
+1. [Single Number](SingleNumber.md)  
+   **Description**: Identifies the element that appears only once in an array where every other element appears twice.
+
+---
+
+## Day 13
+1. [Second Largest Digit in String](SecondLargestDigitInString.md)  
+   **Description**: Finds the second largest digit in a given alphanumeric string.
+
+---
+
+## Day 14
+1. [Maximum Consecutive Ones](MaxConsecutiveOnes.md)  
+   **Description**: Counts the maximum number of consecutive 1s in a binary array.
+
+---
+
 ## Why LeetCode?
 Practicing problems on LeetCode helps in:
 - Enhancing problem-solving skills.
