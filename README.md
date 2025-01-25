@@ -103,6 +103,78 @@ Welcome to my LeetCode Series! This repository is a collection of solutions to v
 
 ---
 
+## Day 15
+1. [Majority Element](MajorityElement.md)  
+   **Description**: Finds the majority element that appears more than ⌊n / 2⌋ times in an array.
+
+---
+
+## Day 16
+1. [Find Duplicate Number](FindDuplicateNumber.md)  
+   **Description**: Identifies the duplicate number in an array containing n+1 integers.
+
+---
+
+## Day 17
+1. [Plus One](PlusOne.md)  
+   **Description**: Adds one to a number represented as an array of digits.
+
+---
+
+## Day 18
+1. [Valid Anagrams](ValidAnagrams.md)  
+   **Description**: Checks if two strings are anagrams of each other.
+
+---
+
+## Day 19
+1. [Valid Palindrome](ValidPalindrome.md)  
+   **Description**: Verifies if a given string is a valid palindrome, considering only alphanumeric characters.
+
+---
+
+## Day 20
+1. [Reverse Words in a String](ReverseWords.md)  
+   **Description**: Reverses the words in a given string while preserving word order.
+
+---
+
+## Day 21
+1. [Bitwise XOR of All Pairings](BitwiseXORPairings.md)  
+   **Description**: Calculates the XOR of all unique pairings in two arrays.
+
+---
+
+## Day 22
+1. [Add Digits](AddDigits.md)  
+   **Description**: Repeatedly adds all digits of a number until the result has only one digit.
+
+---
+
+## Day 23
+1. [Ugly Number](UglyNumber.md)  
+   **Description**: Determines if a number is an ugly number (only prime factors are 2, 3, and 5).
+
+---
+
+## Day 24
+1. [Power of Three](PowerOfThree.md)  
+   **Description**: Checks if a given number is a power of three.
+
+---
+
+## Day 25
+1. [Power of Four](PowerOfFour.md)  
+   **Description**: Determines if a number is a power of four.
+
+---
+
+## Day 26
+1. [Intersection of Two Arrays](IntersectionOfTwoArrays.md)  
+   **Description**: Finds the intersection of two arrays, with each element appearing only once.
+
+---
+
 ## Why LeetCode?
 Practicing problems on LeetCode helps in:
 - Enhancing problem-solving skills.
